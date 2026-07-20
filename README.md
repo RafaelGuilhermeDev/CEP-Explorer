@@ -10,6 +10,7 @@ Java
 HttpClient (java.net.http)
 Gson
 API ViaCEP
+
 💡 Como funciona?
 
 O funcionamento da aplicação é bem simples:
@@ -23,6 +24,7 @@ Um arquivo JSON é criado com os dados retornados pela API.
 Se o CEP informado estiver em um formato inválido, uma exceção personalizada é lançada para informar o erro de forma mais clara.
 
 📂 Estrutura do projeto
+
 📌 Endereco.java
 
 Utilizei um record para representar o endereço retornado pela API.
@@ -80,6 +82,7 @@ Consulta de vários CEPs em sequência;
 Validação mais completa dos dados informados;
 Testes automatizados;
 Melhor organização das mensagens exibidas ao usuário.
+
 👨‍💻 Autor
 
 Desenvolvido por Rafael Henrique como parte da minha jornada de aprendizado em Java.
