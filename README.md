@@ -5,6 +5,7 @@ Este foi o meu primeiro projeto utilizando uma API em Java. O principal objetivo
 A aplicação permite que o usuário informe um CEP, consulte os dados do endereço através da API ViaCEP e salve essas informações em um arquivo JSON.
 
 🚀 Tecnologias utilizadas
+
 Java
 HttpClient (java.net.http)
 Gson
@@ -33,7 +34,6 @@ Logradouro
 Bairro
 Cidade
 Estado
-🌐 ConsultaCep.java
 
 Esta é a classe responsável pela comunicação com a API.
 
