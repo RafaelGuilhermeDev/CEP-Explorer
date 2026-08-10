@@ -11,6 +11,10 @@ HttpClient (java.net.http)
 Gson
 API ViaCEP
 
+  Como utilizar ??
+
+Baixe como em formato zip, e rode em um programa com suporte Java.
+
 💡 Como funciona?
 
 O funcionamento da aplicação é bem simples:
